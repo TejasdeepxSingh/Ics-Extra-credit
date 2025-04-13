@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+
+.red{
+    color: red;
+}
+
+.blue{
+    color: white;
+}
+
+#vansh{
+    color: green;
+}
+
+.container{
+    margin: 50px 20px 0 20px;
+    /* top & right & bottom & left */
+    /* top & right+left & bottom */
+    /* top + bottom & rihgt+left */
+    border: 2px solid;
+    padding: 50px;
+}
+
+.headings{
+    font-size: 20px;
+    background-color: beige;
+    padding: 50px;
+}
+
+button{
+    padding: 10px;
+    border-radius: 15 px;
+    font-style: italic;
+    
+}
